@@ -1,0 +1,47 @@
+.urgent {
+    color: tomato;
+}
+
+.important{
+    color: tomato;
+}
+
+.unurgent{
+    color: yellowgreen;
+}
+
+
+.unimportant{
+    color: yellowgreen;
+}
+
+.header{
+    display: block;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.btndone {
+    background-color: darkkhaki; /* Blue background */
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 0; /* Some padding */
+    font-size: 16px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+    text-align: right;
+  }
+  
+  /* Darker background on mouse-over */
+  .btndone:hover {
+    background-color: RoyalBlue;
+    
+  }
+
+
+  .btndone:before {
+    content: url('../../Assets/checked.png');
+    width: 20px;
+    float: left;
+    margin-right: 5px;
+    margin-top: -2px;
+  }

@@ -1,0 +1,17 @@
+.container{
+    border: 2px solid mediumturquoise;
+    border-radius: 25px;
+    background-color: white;
+    min-height: 150px;
+    padding: 20px;
+} 
+
+.taskholder
+{
+    text-align: left;
+    border: 1px solid darkolivegreen;
+    border-radius: 5px;
+    background-color:cadetblue;
+    min-width: 300px;
+    padding: 5px;
+}

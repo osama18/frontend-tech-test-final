@@ -1,0 +1,12 @@
+{
+    "templates": [
+        {
+          "id": 1,
+          "name": "Isenhower"
+        },
+        {
+          "id": 2,
+          "name": "Board"
+        }
+       ]
+  }

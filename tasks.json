@@ -1,0 +1,33 @@
+{
+    "tasks": [
+        {
+          "id": 1,
+          "title": "Clean the house",
+          "description": "Clean the kitchen , wash the dishes and wash the cloths",
+          "urgent" : true,
+          "important" : true
+        },
+        {
+          "id": 2,
+          "title": "Go To Gym",
+          "description": "Train shoulder and legs Tday",
+          "urgent" : false,
+          "important" : true
+        },
+        {
+          "id": 3,
+          "title": "Read book",
+          "description": "Read about front end technologies",
+          "urgent" : true,
+          "important" : false
+        },
+        {
+          "id": 4,
+          "title": "Shopping",
+          "description": "Buy house needed stuff",
+          "important" : false,
+          "urgent" : false
+          
+        }
+       ]
+  }

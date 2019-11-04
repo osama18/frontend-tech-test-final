@@ -1,0 +1,8 @@
+.board-container {
+    padding: 20px;
+    background-color: darkgoldenrod;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+  }
+  
